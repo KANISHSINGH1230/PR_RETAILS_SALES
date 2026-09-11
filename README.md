@@ -1,7 +1,7 @@
 # 📊 Retail Sales Analytics Dashboard
 
-https://github.com/KANISHSINGH1230/PR_RETAILS_SALES/blob/main/IMAGE/RETAIL%20SALES%20DASHBOARD.png
-
+<p align = "center">
+ <image src = https://github.com/KANISHSINGH1230/PR_RETAILS_SALES/blob/main/IMAGE/RETAIL%20SALES%20DASHBOARD.png "widh="100%" alt = "student performance">
 
 ## 📌 Project Overview
 
