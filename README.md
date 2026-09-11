@@ -1,5 +1,8 @@
 # 📊 Retail Sales Analytics Dashboard
 
+https://github.com/KANISHSINGH1230/PR_RETAILS_SALES/blob/main/IMAGE/RETAIL%20SALES%20DASHBOARD.png
+
+
 ## 📌 Project Overview
 
 The **Retail Sales Analytics Dashboard** is an interactive Power BI dashboard designed to analyze retail sales performance, revenue trends, customer activity, product performance, regional sales, and sales channel distribution.
